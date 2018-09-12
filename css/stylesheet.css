@@ -3,7 +3,17 @@
   overflow: hidden;
   background-color: #333;
   font-family: Arial;
+  grid-row: 1;
+  grid-column: 1/4;
+  justify-self: center;
+  display: flex;
+  width: 100%;
+  justify-content: space-around;
+  display: inline;
+
 }
+
+
 
 /* Links inside the navbar */
 .navbar a {
@@ -13,6 +23,8 @@
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
+
+
 }
 
 /* The dropdown container */
@@ -66,4 +78,13 @@
 /* Show the dropdown menu on hover */
 .dropdown:hover .dropdown-content {
   display: block;
+}
+
+body{
+  background: black;
+
+}
+
+.imglogo{
+
 }
