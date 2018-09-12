@@ -11,6 +11,7 @@
 .threeSections{
     display: grid;
     background-color: burlywood;
+    grid-template-columns: repeat(3, 1fr);
 }
 
 
