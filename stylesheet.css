@@ -5,6 +5,9 @@
     width: 60vw;
     height: 30vh;
     margin: 0 auto;
+    padding: 10px;
+    text-align: center;
+   justify-content: center;
 }
 
 
