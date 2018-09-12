@@ -1,3 +1,37 @@
+
+
+.mainBanner{
+    background-color: aqua;
+    width: 60vw;
+    height: 30vh;
+    margin: 0 auto;
+    padding: 10px;
+    text-align: center;
+   justify-content: center;
+}
+
+
+.threeSections{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 10px;
+    text-align: center;
+
+}
+
+section{
+    background-color: antiquewhite;
+}
+
+
+h3{
+    text-align: center;
+}
+
+h1{
+    text-align: center;
+}
+
 /* Navbar container */
 .navbar {
   overflow: hidden;
