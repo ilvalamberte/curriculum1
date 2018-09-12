@@ -1,0 +1,17 @@
+
+
+.mainBanner{
+    background-color: aqua;
+    width: 60vw;
+    height: 30vh;
+    margin: 0 auto;
+}
+
+
+.threeSections{
+    display: grid;
+    background-color: burlywood;
+}
+
+
+
